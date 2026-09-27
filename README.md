@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="https://github.com/Aniruddha-Porey.png" width="150" height="150" style="border-radius:50%;" />
+
 # 👋 Hi, I'm Aniruddha Porey
 
-### 💻 B.Tech CSE Student | Full-Stack Developer | Data & Cloud Enthusiast
+### 💻 B.Tech CSE Student • Full-Stack Developer • Data & Cloud Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Java+%7C+Python+Developer;Building+Real-World+Projects;Learning+Power+BI+%26+DAX;Exploring+AWS+%26+Cloud+Computing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Java+%7C+Python+Developer;Building+Real-World+Projects;Learning+Power+BI+%26+DAX;Exploring+AWS+%26+Cloud+Computing" alt="Typing SVG" />
 </p>
 
 <p>
@@ -23,32 +25,36 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a **B.Tech Computer Science & Engineering student at Narula Institute of Technology (2024–2028)**.
+🎓 **B.Tech Computer Science & Engineering Student** at **Narula Institute of Technology (2024–2028)**.
 
 💻 I enjoy building **full-stack web applications** and turning ideas into practical, working projects.
 
-🚀 My current interests include **MERN development, Java, Python, Data Analytics, Power BI, and Cloud Computing**.
+🚀 My interests include **MERN development, Java, Python, Data Analytics, Power BI, and Cloud Computing**.
 
-📊 I'm currently learning **Microsoft Power BI and DAX** to strengthen my data visualization and business intelligence skills.
+📊 Currently learning **Microsoft Power BI and DAX** to strengthen my data visualization and business intelligence skills.
 
-☁️ I'm also exploring **AWS and cloud computing**, learning how applications can be deployed, monitored, and managed in cloud environments.
+☁️ Exploring **AWS and Cloud Computing**, with a focus on application deployment, monitoring, and cloud infrastructure.
 
-### 🎯 My Current Focus
+---
 
-* 🌐 Full-Stack Web Development
-* ⚛️ React & MERN Stack
-* ☕ Java Programming
-* 🐍 Python & Data Analysis
-* 📊 Power BI & DAX
-* ☁️ AWS & Cloud Computing
-* 🧠 Data Structures & Algorithms
-* 🚀 Building real-world projects
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🌐 Development |  📊 Data |  ☁️ Cloud  |
+| :------------: | :------: | :--------: |
+|  React & MERN  | Power BI |     AWS    |
+|     Node.js    |    DAX   |     EC2    |
+|      Java      |  Pandas  | CloudWatch |
+|     Python     |   NumPy  |     IAM    |
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
@@ -62,7 +68,11 @@
 
 ### 📊 Data & Analytics
 
-`Power BI` • `DAX` • `Pandas` • `NumPy` • `Matplotlib`
+<p>
+
+`Power BI`   `DAX`   `Pandas`   `NumPy`   `Matplotlib`
+
+</p>
 
 ### ☁️ Cloud & Tools
 
@@ -76,81 +86,84 @@
 
 ## 🎟️ The Event Canvas
 
-### **Discover. Book. Experience — Your Next Big Moment.**
+### *Discover. Book. Experience — Your Next Big Moment.*
 
-My main full-stack project — a **MERN-based event management and booking platform**.
+A full-stack **MERN-based event management and booking platform** where users can discover events, create events for admin approval, book available seats, and receive tickets.
 
-The platform allows users to discover events, create events for admin approval, book available seats, and receive tickets. Administrators can manage events, approve or reject user-created events, publish their own events directly, manage bookings, and delete events.
+Administrators can manage events, approve or reject user-created events, publish their own events directly, manage bookings, and delete events.
 
 ### ✨ Key Features
 
-* 👤 User registration and authentication
+* 👤 User registration & authentication
 * 🔐 JWT-based authentication
-* 📝 Users can create events
-* ⏳ User-created events require admin approval
-* ✅ Admin can approve events
-* ❌ Admin can reject events
-* 🛠️ Admin can create and publish events directly
-* 🔎 Browse and explore published events
+* 📝 User-created events
+* ⏳ Admin approval workflow
+* ✅ Event approval & rejection
+* 🛠️ Admin-created events
+* 🔎 Event discovery
 * 💺 Seat availability management
 * 🆓 Free event booking
 * 💳 Paid event booking
 * 🎫 Ticket generation
-* 📊 Booking and payment status management
+* 📊 Booking & payment status
 * 👨‍💼 Admin dashboard
-* 🗑️ Admin can delete events
+* 🗑️ Event management & deletion
 
 ### 🔄 Event Workflow
 
 ```text
-User Creates Event
-        │
-        ▼
-   Admin Review
-    ┌────┴────┐
-    ▼         ▼
- Approve    Reject
-    │
-    ▼
- Published
-    │
-    ▼
-Available for Booking
+        👤 User Creates Event
+                 │
+                 ▼
+          👨‍💼 Admin Review
+            ┌────┴────┐
+            ▼         ▼
+         ✅ Approve  ❌ Reject
+            │
+            ▼
+       📢 Published
+            │
+            ▼
+      🎟️ Available for Booking
 ```
 
 ### 🎟️ Booking Workflow
 
 ```text
-Select Event
-     │
-     ▼
-Check Seat Availability
-     │
- ┌───┴────┐
- ▼        ▼
-Free     Paid
- │        │
- ▼        ▼
-Book    Payment
- │        │
- │     ┌──┴───┐
- │     ▼      ▼
- │   Success Failed
- │     │
- └─────┴──────► Ticket
+        🔎 Select Event
+              │
+              ▼
+      💺 Check Availability
+          ┌───┴────┐
+          ▼        ▼
+        🆓 Free   💳 Paid
+          │        │
+          ▼        ▼
+        Book    Payment
+                   │
+              ┌────┴────┐
+              ▼         ▼
+          ✅ Success   ❌ Failed
+              │
+              ▼
+          🎫 Ticket
 ```
 
-**Tech Stack:**
+**Tech Stack**
 
 `React` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Nodemailer`
 
+<div align="center">
+
 🔗 **[View The Event Canvas →](https://github.com/Aniruddha-Porey/The-Event-Canvas)**
+
+</div>
 
 ---
 
 ## 🌊 FLUVORA
 
-### **Flood-Aware Navigation & Emergency Coordination**
+### *Flood-Aware Navigation & Emergency Coordination*
 
 A flood-aware navigation and emergency coordination platform designed to help users identify safer routes and locate important emergency resources during flood situations.
 
@@ -165,99 +178,114 @@ A flood-aware navigation and emergency coordination platform designed to help us
 * 📊 Flood simulation
 * 🛣️ Road status management
 
-**Tech Stack:**
+**Tech Stack**
 
 `React` `Node.js` `Express.js` `Maps` `Weather APIs`
 
+<div align="center">
+
 🔗 **[View FLUVORA →](https://github.com/Aniruddha-Porey/FLUVORA)**
+
+</div>
 
 ---
 
+# 🤝 Collaborative Contributions
+
 ## 🚢 VoyageIQ
 
-### **Maritime Cargo Route Visualization**
+### *Maritime Cargo Route Visualization*
 
 A collaborative maritime visualization project focused on cargo routes, ports, vessels, and sea-route mapping.
 
-### 🤝 My Contribution
-
-Contributed to the development of the project, including work related to:
+### My Contribution
 
 * 🗺️ Interactive maritime map
 * 🌊 Sea-route visualization
 * 🚢 Vessel-related visualization
-* 📡 API/data integration
-* 🎨 Frontend interface and dashboard components
+* 📡 API & data integration
+* 🎨 Frontend interface
+* 📊 Dashboard components
 
-**Tech Stack:**
+**Tech Stack**
 
 `React` `Vite` `Leaflet` `JavaScript` `APIs`
 
 > 🤝 **Collaborative Project — Contributor**
 
-
 ---
 
-## 📊 Python Data Analysis
+# 📊 Python Data Analysis
 
-A collection of data analysis and visualization work using Python.
+A collection of Python-based data analysis and visualization work.
 
-### Areas of Practice
+### 🔍 Areas of Practice
 
-* Data cleaning
-* Data manipulation
-* Exploratory Data Analysis
-* Data visualization
-* Statistical analysis
-* CSV data processing
+```text
+Data Loading
+     ↓
+Data Cleaning
+     ↓
+Data Transformation
+     ↓
+Exploratory Data Analysis
+     ↓
+Visualization
+     ↓
+Insights
+```
 
-**Libraries:**
+**Libraries**
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
-# 📊 Power BI & Data Analytics
+# 📈 Power BI & Data Analytics
 
-I'm currently expanding my skills into **Data Analytics and Business Intelligence**.
+Currently expanding my skills in **Data Analytics and Business Intelligence**.
 
-### Currently Learning
+### 📚 Currently Learning
 
-* 📈 Microsoft Power BI
+* 📊 Microsoft Power BI
 * 🧮 DAX
 * 🔄 Data transformation
 * 🗂️ Data modeling
-* 📊 Dashboard development
+* 📈 Dashboard development
 * 📋 Business reporting
 * 📉 Data visualization
 
-### My Analytics Workflow
+### 🔄 Analytics Workflow
 
 ```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Transformation
-   ↓
-Data Modeling
-   ↓
-DAX Calculations
-   ↓
-Power BI Dashboard
-   ↓
-Insights
+       Raw Data
+           │
+           ▼
+    🧹 Data Cleaning
+           │
+           ▼
+   🔄 Transformation
+           │
+           ▼
+     🗂️ Data Modeling
+           │
+           ▼
+      🧮 DAX
+           │
+           ▼
+    📊 Power BI
+           │
+           ▼
+       💡 Insights
 ```
-
-I'm interested in combining **software development with data analytics** to build applications that provide useful insights.
 
 ---
 
 # ☁️ AWS & Cloud Computing
 
-I'm currently building my foundation in **AWS and Cloud Computing**.
+Currently building my foundation in **AWS and Cloud Computing**.
 
-### Areas I'm Exploring
+### 🌩️ Areas I'm Exploring
 
 ```text
 AWS
@@ -269,39 +297,43 @@ AWS
  └── Application Deployment
 ```
 
-I'm particularly interested in understanding how applications are deployed, monitored, and managed in cloud environments.
+My goal is to understand how applications move from **local development to cloud deployment and monitoring**.
 
 ---
 
 # 📚 Currently Learning
 
-| Area                     | Technologies / Skills            |
-| ------------------------ | -------------------------------- |
-| 🌐 Full Stack            | React, Node.js, Express, MongoDB |
-| ☕ Programming            | Java                             |
-| 🐍 Data & Programming    | Python, Pandas, NumPy            |
-| 📊 Business Intelligence | Power BI, DAX                    |
-| ☁️ Cloud                 | AWS, EC2, CloudWatch             |
-| 🧠 Problem Solving       | Data Structures & Algorithms     |
-| 🔧 Tools                 | Git, GitHub, VS Code             |
+<div align="center">
+
+| Area                     | Technologies / Skills               |
+| :----------------------- | :---------------------------------- |
+| 🌐 Full Stack            | React • Node.js • Express • MongoDB |
+| ☕ Programming            | Java                                |
+| 🐍 Data                  | Python • Pandas • NumPy             |
+| 📊 Business Intelligence | Power BI • DAX                      |
+| ☁️ Cloud                 | AWS • EC2 • CloudWatch              |
+| 🧠 Problem Solving       | Data Structures & Algorithms        |
+| 🔧 Tools                 | Git • GitHub • VS Code              |
+
+</div>
 
 ---
 
-# 🎯 What I Like Building
+# 💡 What I Like Building
 
-```text
-🌐 Full-Stack Web Applications
-🎟️ Event & Booking Platforms
-🗺️ Navigation & Mapping Applications
-📊 Data Analytics Dashboards
-☁️ Cloud-Based Applications
-🚀 Hackathon Projects
-🔧 Practical Developer Projects
-```
+<div align="center">
+
+🌐 **Full-Stack Web Applications**
+🎟️ **Event & Booking Platforms**
+🗺️ **Navigation & Mapping Applications**
+📊 **Data Analytics Dashboards**
+☁️ **Cloud-Based Applications**
+🚀 **Hackathon Projects**
+🔧 **Practical Developer Projects**
+
+</div>
 
 ---
-
-# 📈 GitHub Stats
 
 # 📈 GitHub Stats
 
@@ -313,15 +345,7 @@ I'm particularly interested in understanding how applications are deployed, moni
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Aniruddha-Porey&theme=transparent&hide_border=true" width="70%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aniruddha-Porey&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aniruddha-Porey&theme=transparent&hide_border=true" width="65%" />
 
 </div>
 
@@ -330,10 +354,10 @@ I'm particularly interested in understanding how applications are deployed, moni
 # 🎯 Goals
 
 * 🚀 Build production-ready full-stack applications
-* 🧠 Strengthen DSA and problem-solving
-* 📊 Become proficient in Power BI and DAX
+* 🧠 Strengthen DSA & problem-solving
+* 📊 Become proficient in Power BI & DAX
 * ☁️ Gain practical AWS experience
-* 🐍 Improve Python and data analytics skills
+* 🐍 Improve Python & data analytics
 * ☕ Strengthen Java programming
 * 🌍 Explore open-source development
 * 🤝 Collaborate on meaningful projects
@@ -341,26 +365,26 @@ I'm particularly interested in understanding how applications are deployed, moni
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Aniruddha-Porey">
-  <img src="https://img.shields.io/badge/GitHub-Aniruddha--Porey-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Aniruddha--Porey-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/aniruddha-porey-660334325">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Aniruddha--Porey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### 💡 Build. Learn. Improve. Repeat.
 
-**Thanks for visiting my profile!** ⭐
+⭐ **Thanks for visiting my profile!**
 
 </div>
