@@ -303,11 +303,17 @@ I'm particularly interested in understanding how applications are deployed, moni
 
 # 📈 GitHub Stats
 
+# 📈 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Porey&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aniruddha-Porey&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Porey&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Porey&layout=compact&theme=transparent&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Aniruddha-Porey&theme=transparent&hide_border=true" width="70%" />
 
 </div>
 
