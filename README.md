@@ -177,20 +177,24 @@ A flood-aware navigation and emergency coordination platform designed to help us
 
 ### **Maritime Cargo Route Visualization**
 
-A React-based maritime visualization project focused on cargo routes, ports, vessels, and sea-route mapping.
+A collaborative maritime visualization project focused on cargo routes, ports, vessels, and sea-route mapping.
 
-### ✨ Key Features
+### 🤝 My Contribution
+
+Contributed to the development of the project, including work related to:
 
 * 🗺️ Interactive maritime map
-* 🚢 Vessel visualization
-* ⚓ Port information
-* 🌊 Sea-route mapping
-* 📡 Maritime data integration
-* 📊 Monitoring dashboard
+* 🌊 Sea-route visualization
+* 🚢 Vessel-related visualization
+* 📡 API/data integration
+* 🎨 Frontend interface and dashboard components
 
 **Tech Stack:**
 
-`React` `Vite` `Leaflet` `Sea Routes` `APIs`
+`React` `Vite` `Leaflet` `JavaScript` `APIs`
+
+> 🤝 **Collaborative Project — Contributor**
+
 
 ---
 
