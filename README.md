@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Aniruddha-Porey.png" width="150" height="150" style="border-radius:50%;" />
 
 # 👋 Hi, I'm Aniruddha Porey
 
